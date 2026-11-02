@@ -15,4 +15,7 @@ Send a link, transcript, or text and ask: "Use Quick Summary to summarize this."
 - Expanded topic explanations with technical analogies and business implications
 - Video/transcript timestamps when verified; important short quotes for plain text
 
+## Planned Features
+- PDF summarization support (experimental)
+
 **No website or archive integration is included.**
